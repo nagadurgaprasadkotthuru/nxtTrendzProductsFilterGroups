@@ -1,0 +1,14 @@
+.category-item {
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+
+.category-button {
+  font-family: 'Roboto';
+  font-size: 15px;
+  border: 0px;
+  background-color: transparent;
+  color: #64748b;
+  cursor: pointer;
+  outline: none;
+}
