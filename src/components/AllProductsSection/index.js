@@ -153,7 +153,7 @@ class AllProductsSection extends Component {
           />
           <h2 className="no-products-heading">No Products Found</h2>
           <p className="no-products-description">
-            We could find any products. Try other filters.
+            We could not find any products. Try other filters.
           </p>
         </div>
       )
